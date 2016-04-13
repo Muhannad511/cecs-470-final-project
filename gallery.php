@@ -4,12 +4,13 @@
 	<meta charset="utf-8"/>
 	<title>David Lopez - Gallery</title>
 	<link href="style.css" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
 	<header>
-		<h1>David Lopez Photography</h1>
-		<h2>Gallery</h2>
+		<h1>DAVID LOPEZ PHOTOGRAPHY</h1>
+		<h2>GALLERY</h2>
 
 		<hr>
 	<nav>
@@ -19,8 +20,9 @@
 	</nav>
 	</header>
 
-  <div>
-
+	<div class="content">
+		<h1>Some of My Work</h1>
+		<p>Some stuff goes here.</p>
   </div>
 
   <footer>

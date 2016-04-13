@@ -1,1 +1,29 @@
-/*STYLE STUFF GO HERE*/
+body{
+  background-image: url(gplaypattern.png);
+}
+
+header, nav, footer{
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: white;
+  padding-top: 1.0em;
+  padding-bottom: 0.1em;
+  margin-bottom: 2em;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav a{
+  padding: 0.2em;
+}
+
+.content{
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: white;
+  padding: 2em;
+  margin-bottom: 2em;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
