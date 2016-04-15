@@ -4,6 +4,7 @@
 	<meta charset="utf-8"/>
 	<title>David Lopez - Gallery</title>
 	<link href="style.css" rel="stylesheet">
+	<script type="text/JavaScript" src="script.js"></script>
 	<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
 </head>
 
@@ -12,10 +13,10 @@
 		<h1>DAVID LOPEZ PHOTOGRAPHY</h1>
 		<h2>GALLERY</h2>
 
-		<hr>
 	<nav>
 		<a href = "index.html">Home</a>
-		<a href = "gallery.php">Gallery</a>
+		<a href = "services.html">Services</a>
+		<a class="active" href = "gallery.php">Gallery</a>
 		<a href = "contact.php">Contact</a>
 	</nav>
 	</header>
